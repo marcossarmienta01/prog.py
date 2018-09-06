@@ -1,6 +1,6 @@
-a = 23
-b = 87
-c = 98
+a = 20
+b = 75
+c = 88
 
 if a = < b:
 	print("a es menor")
